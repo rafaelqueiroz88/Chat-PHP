@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(230, 230, 230, 10);
+}
+.historico{
+    width: 800px;
+    height: 500px;
+    border-radius: 10px;
+    position: absolute;
+        top: 20%;
+        left: 20%;
+    background-color: rgba(255, 255, 255, .4);
+    font-size: 15pt;
+    padding-left: 15px;
+    padding-top: 20px;
+}
+.painel{
+    position: fixed;
+        bottom: 0;
+        left: 40%;
+    padding-left: 10px;
+}
